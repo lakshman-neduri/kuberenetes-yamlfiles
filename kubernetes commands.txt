@@ -1,0 +1,2 @@
+exec to pod :
+kubectl exec -- -it hello-pod sh
